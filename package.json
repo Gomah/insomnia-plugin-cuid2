@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-cuid2",
   "description": "A plugin for generating cuids",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/Gomah/insomnia-plugin-cuid2",
