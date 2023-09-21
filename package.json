@@ -21,6 +21,6 @@
     "unlisted": false
   },
   "dependencies": {
-    "@paralleldrive/cuid2": "2.2.1"
+    "@paralleldrive/cuid2": "2.2.2"
   }
 }
